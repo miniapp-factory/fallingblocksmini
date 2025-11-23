@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Email Template Generator";
+export const description = "Generate email templates and subject lines effortlessly.";
 export const url = process.env.NEXT_PUBLIC_URL;
